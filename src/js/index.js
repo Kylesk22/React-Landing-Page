@@ -6,7 +6,7 @@ import ReactDOM from "react-dom";
 import "../styles/index.css";
 
 //import your own components
-import Jumbotron from "./component/home.jsx";
+import Jumbotron from "./component/jumbotron.jsx";
 
 
 //render your react application
